@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/codemarathon-web/static/css/main.4fdf32a2.chunk.css",
-    "main.js": "/codemarathon-web/static/js/main.985ca6ea.chunk.js",
-    "main.js.map": "/codemarathon-web/static/js/main.985ca6ea.chunk.js.map",
+    "main.js": "/codemarathon-web/static/js/main.84738d10.chunk.js",
+    "main.js.map": "/codemarathon-web/static/js/main.84738d10.chunk.js.map",
     "runtime-main.js": "/codemarathon-web/static/js/runtime-main.1316888f.js",
     "runtime-main.js.map": "/codemarathon-web/static/js/runtime-main.1316888f.js.map",
     "static/css/2.b49f7ffb.chunk.css": "/codemarathon-web/static/css/2.b49f7ffb.chunk.css",
     "static/js/2.97387f24.chunk.js": "/codemarathon-web/static/js/2.97387f24.chunk.js",
     "static/js/2.97387f24.chunk.js.map": "/codemarathon-web/static/js/2.97387f24.chunk.js.map",
     "index.html": "/codemarathon-web/index.html",
-    "precache-manifest.e3916895f8fd9107d67af60186c1f4fe.js": "/codemarathon-web/precache-manifest.e3916895f8fd9107d67af60186c1f4fe.js",
+    "precache-manifest.04ef8ca0a7458118e92082d6bc26ad61.js": "/codemarathon-web/precache-manifest.04ef8ca0a7458118e92082d6bc26ad61.js",
     "service-worker.js": "/codemarathon-web/service-worker.js",
     "static/css/2.b49f7ffb.chunk.css.map": "/codemarathon-web/static/css/2.b49f7ffb.chunk.css.map",
     "static/css/main.4fdf32a2.chunk.css.map": "/codemarathon-web/static/css/main.4fdf32a2.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.b49f7ffb.chunk.css",
     "static/js/2.97387f24.chunk.js",
     "static/css/main.4fdf32a2.chunk.css",
-    "static/js/main.985ca6ea.chunk.js"
+    "static/js/main.84738d10.chunk.js"
   ]
 }

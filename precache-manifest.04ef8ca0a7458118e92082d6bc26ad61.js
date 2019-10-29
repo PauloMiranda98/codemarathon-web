@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cbe3eef2d2c641befb09ae806e7d6bc6",
+    "revision": "47a6c88cf3dc9d4e85746d7c367beeb8",
     "url": "/codemarathon-web/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/codemarathon-web/static/css/2.b49f7ffb.chunk.css"
   },
   {
-    "revision": "976d0f6e5b7f051dc330",
+    "revision": "182b44a94efe2eac77f8",
     "url": "/codemarathon-web/static/css/main.4fdf32a2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/codemarathon-web/static/js/2.97387f24.chunk.js"
   },
   {
-    "revision": "976d0f6e5b7f051dc330",
-    "url": "/codemarathon-web/static/js/main.985ca6ea.chunk.js"
+    "revision": "182b44a94efe2eac77f8",
+    "url": "/codemarathon-web/static/js/main.84738d10.chunk.js"
   },
   {
     "revision": "376a6ff5f6730647a641",
