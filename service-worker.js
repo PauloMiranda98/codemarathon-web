@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/codemarathon-web/precache-manifest.04ef8ca0a7458118e92082d6bc26ad61.js"
+  "/codemarathon-web/precache-manifest.6a6c6965628a531fef3d5422be90b26f.js"
 );
 
 self.addEventListener('message', (event) => {
