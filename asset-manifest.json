@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/codemarathon-web/static/css/main.2fa362d8.chunk.css",
-    "main.js": "/codemarathon-web/static/js/main.3de82478.chunk.js",
-    "main.js.map": "/codemarathon-web/static/js/main.3de82478.chunk.js.map",
+    "main.css": "/codemarathon-web/static/css/main.1f3badee.chunk.css",
+    "main.js": "/codemarathon-web/static/js/main.b83cc515.chunk.js",
+    "main.js.map": "/codemarathon-web/static/js/main.b83cc515.chunk.js.map",
     "runtime-main.js": "/codemarathon-web/static/js/runtime-main.1316888f.js",
     "runtime-main.js.map": "/codemarathon-web/static/js/runtime-main.1316888f.js.map",
-    "static/css/2.71c615f6.chunk.css": "/codemarathon-web/static/css/2.71c615f6.chunk.css",
-    "static/js/2.9ffbd35e.chunk.js": "/codemarathon-web/static/js/2.9ffbd35e.chunk.js",
-    "static/js/2.9ffbd35e.chunk.js.map": "/codemarathon-web/static/js/2.9ffbd35e.chunk.js.map",
+    "static/css/2.5256cd3d.chunk.css": "/codemarathon-web/static/css/2.5256cd3d.chunk.css",
+    "static/js/2.f31446b1.chunk.js": "/codemarathon-web/static/js/2.f31446b1.chunk.js",
+    "static/js/2.f31446b1.chunk.js.map": "/codemarathon-web/static/js/2.f31446b1.chunk.js.map",
     "index.html": "/codemarathon-web/index.html",
-    "precache-manifest.80f5b0a3d59328ea32a17b12235f21d3.js": "/codemarathon-web/precache-manifest.80f5b0a3d59328ea32a17b12235f21d3.js",
+    "precache-manifest.e8001c02058472bfb3f96cc01ab93f49.js": "/codemarathon-web/precache-manifest.e8001c02058472bfb3f96cc01ab93f49.js",
     "service-worker.js": "/codemarathon-web/service-worker.js",
-    "static/css/2.71c615f6.chunk.css.map": "/codemarathon-web/static/css/2.71c615f6.chunk.css.map",
-    "static/css/main.2fa362d8.chunk.css.map": "/codemarathon-web/static/css/main.2fa362d8.chunk.css.map",
+    "static/css/2.5256cd3d.chunk.css.map": "/codemarathon-web/static/css/2.5256cd3d.chunk.css.map",
+    "static/css/main.1f3badee.chunk.css.map": "/codemarathon-web/static/css/main.1f3badee.chunk.css.map",
     "static/media/katex.css": "/codemarathon-web/static/media/KaTeX_Typewriter-Regular.6cc31ea5.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.1316888f.js",
-    "static/css/2.71c615f6.chunk.css",
-    "static/js/2.9ffbd35e.chunk.js",
-    "static/css/main.2fa362d8.chunk.css",
-    "static/js/main.3de82478.chunk.js"
+    "static/css/2.5256cd3d.chunk.css",
+    "static/js/2.f31446b1.chunk.js",
+    "static/css/main.1f3badee.chunk.css",
+    "static/js/main.b83cc515.chunk.js"
   ]
 }
